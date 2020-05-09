@@ -1,6 +1,6 @@
 #### Budget Tracker App
 
-![preview.png] (preview.png)
+![preview.png] (https://raw.githubusercontent.com/Ankomahene/budget-tracker/master/preview.png)
 
 ## Available Scripts
 
